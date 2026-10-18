@@ -1,0 +1,6 @@
+model/*.tar
+model/*.safetensors
+model/*.part-*
+__pycache__/
+*.pyc
+.venv/
